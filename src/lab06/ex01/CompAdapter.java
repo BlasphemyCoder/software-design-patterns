@@ -1,7 +1,5 @@
 package lab06.ex01;
 
-import java.util.Iterator;
-
 public class CompAdapter {
 
     private Database db;

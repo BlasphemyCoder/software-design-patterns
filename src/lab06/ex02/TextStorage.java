@@ -1,7 +1,6 @@
 package lab06.ex02;
 
 import java.io.IOException;
-import java.nio.file.*;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
