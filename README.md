@@ -14,7 +14,7 @@ Theoretical explanations and practical examples will mostly be taken from the fo
 
 ## Authors
 
-* **Vasco Ramos** - [BlasphemyCoder](https://github.com/BlasphemyCoder)
+* **Vasco Ramos** - [vascoalramos](https://github.com/vascoalramos)
 
 ## License
 
