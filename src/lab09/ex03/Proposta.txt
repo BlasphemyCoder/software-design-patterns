@@ -1,0 +1,15 @@
+Desenhe, utilizando Chain of Responsabilities, as classes:
+    Aviao
+    Comboio
+    Autocarro
+    
+Todas estas classes devem herdar da classe abstrata "Transporte"
+Todas as classes devem ter o metodo:
+    viajar()
+
+Sendo que cada uma consegue tratar de tipos de viagem diferentes:
+    Aviao - Internacional
+    Comboio - Nacional
+    Autocarro - Regional
+
+Para efeitos de teste crie a classe "AgenciaDeViagens"

@@ -1,0 +1,4 @@
+1.
+    a) Strategy
+    b) file -> ex1_UML
+    c) codigo
