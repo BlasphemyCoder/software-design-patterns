@@ -14,8 +14,8 @@ Theoretical explanations and practical examples will mostly be taken from the fo
 
 ## Authors
 
-* **Vasco Ramos** - [BlasphemyCoder](https://github.com/BlasphemyCoder)
+* **Vasco Ramos** - [vascoalramos](https://github.com/vascoalramos)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details

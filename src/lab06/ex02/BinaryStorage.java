@@ -1,6 +1,5 @@
 package lab06.ex02;
 
-import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
